@@ -3,8 +3,6 @@
 <h3 align="center">I'm OnCaDo, a part-time full-stack freelance developer 👨‍💻  and Software Engineer Student 🚀</h3>
 <!-- Selamlama -->
 <div align="left">
-<img src="https://img.shields.io/badge/Wellcome-Friend-lightgrey"/>
-<!-- <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/oncado86/oncado86?color=inactive"/> -->
 <img alt="GitHub" src="https://img.shields.io/github/license/oncado86/oncado86"/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=oncado86.oncado86&right_color=lightgrey&format=true&left_text=My%20Page%20Visitors"></div>
 <hr>
