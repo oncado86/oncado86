@@ -18,7 +18,7 @@
         <a href="https://github.com/oncado86/Algoritmalar_ve_Kodlar" target="_blank">Algorithms and Codes</a>
       </li>
       <li>
-        <a href="https://github.com/oncado86/JavaCamp_2022" target="_blank">Java Camo (2022)</a>
+        <a href="https://github.com/oncado86/JavaCamp_2022" target="_blank">Java Camp (2022)</a>
       </li>
       <li>
         <a href="https://github.com/oncado86/Siparis_Otomasyon_Projesi" target="_blank">Order Automation</a>
