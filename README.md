@@ -1,12 +1,34 @@
 <!-- Selamlama -->
-<h1 align="center">Hi there 👋 Welcome to my Github Profile.</h1>
-<h3 align="center">I'm OnCaDo, a part-time full-stack freelance developer 👨‍💻  and Software Engineer Student 🚀</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm OnCaDo, a part-time full-stack freelance developer 👨‍💻  and Software Engineer Student 🚀
+<br><code>May the Source be with You!</code></h3>
 <!-- Selamlama -->
 <div align="left">
-<img alt="GitHub" src="https://img.shields.io/github/license/oncado86/oncado86?label=License">
+<img alt="GitHub" src="https://img.shields.io/github/license/oncado86/oncado86"/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=oncado86.oncado86&right_color=lightgrey&format=true&left_text=My%20Page%20Visitors"></div>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
+
+<hr>
+
+<details>
+  <summary>My Github Repos</summary>
+    <ul>
+      <li>
+        <a href="https://github.com/oncado86/Algoritmalar_ve_Kodlar" target="_blank">Algorithms and Codes</a>
+      </li>
+      <li>
+        <a href="https://github.com/oncado86/JavaCamp_2022" target="_blank">Java Camo (2022)</a>
+      </li>
+      <li>
+        <a href="https://github.com/oncado86/Siparis_Otomasyon_Projesi" target="_blank">Order Automation</a>
+      </li>
+      <li>
+        <a href="https://github.com/oncado86/Yazim_Kurallari_ve_Sifreleme_Projesi" target="_blank">Spelling rules and Encryption</a>
+      </li>
+    </ul>
+</details>
+
 
 
 <hr>
