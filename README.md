@@ -10,7 +10,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <hr>
-
+<h4>
 <details>
   <summary>My Github Repos</summary>
     <ul>
@@ -28,8 +28,6 @@
       </li>
     </ul>
 </details>
-
-
 
 <hr>
 <details>
@@ -131,7 +129,7 @@
 </div>  
 </details>
 <hr>
-
+</h4>
 <br/>  
 
 <p align="center">
