@@ -111,9 +111,6 @@
 <details>
 <summary>Connect With Me</summary>
 <div align="center">
-<a href="https://github.com/oncado86" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; border-radius: 5px" />
-</a>
 <a href="https://twitter.com/oncado86" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; border-radius: 5px" />
 </a>
@@ -125,7 +122,13 @@
 </a>
 <a href="https://instagram.com/oncado86" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px; border-radius: 5px" />
-</a>  
+</a>
+<a href="https://medium.com/@oncado" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/oncado86" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; border-radius: 5px" />
+</a>
 </div>  
 </details>
 <hr>
