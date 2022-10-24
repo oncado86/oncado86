@@ -12,7 +12,7 @@
 <hr>
 <h3>
 <details>
-  <summary>My Github Repos</summary>
+  <summary>My Github Repos <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/></summary>
     <ul>
       <li>
         <a href="https://github.com/oncado86/Algoritmalar_ve_Kodlar" target="_blank">Algorithms and Codes</a>
@@ -38,7 +38,7 @@
 
 <hr>
 <details>
-<summary>My GitHub Stats</summary>
+<summary>My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></summary>
 <div align="center">
 <!-- kupalar -->
 
