@@ -20,11 +20,11 @@
       <li>
         <a href="https://github.com/oncado86/CSharpAndAngularCamp">C# and Angular Camp</a>
       </li>
-      <li>
-        <a href="https://github.com/oncado86/JavaCamp_2022" target="_blank">Java Camp (2022)</a>
+       <li>
+        <a href="https://github.com/oncado86/JavaAndReactCamp" target="_blank">Java and React Camp</a>
       </li>
       <li>
-        <a href="https://github.com/oncado86/JavaAndReactCamp" target="_blank">Java and React Camp</a>
+        <a href="https://github.com/oncado86/JavaCamp_2022" target="_blank">Java Camp (2022)</a>
       </li>
       <li>
         <a href="https://github.com/oncado86/Siparis_Otomasyon_Projesi" target="_blank">Order Automation</a>
