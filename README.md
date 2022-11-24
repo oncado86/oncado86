@@ -64,7 +64,7 @@
 </div>
 </details>
 <hr>
-<details><summary> My Skill Set </summary><table><tr><td valign="top" width="33%">
+<details><summary> My Skill Set <img src="https://media.tenor.com/o0_UcfnY4hkAAAAi/loading-buffering.gif" width="30px" /></summary><table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">
