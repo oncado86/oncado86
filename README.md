@@ -32,6 +32,18 @@
       <li>
         <a href="https://github.com/oncado86/Yazim_Kurallari_ve_Sifreleme_Projesi" target="_blank">Spelling rules and Encryption</a>
       </li>
+      <li>
+        <a href="https://github.com/oncado86/calendar_app" target="_blank">Calendar</a>
+      </li>
+      <li>
+        <a href="https://github.com/oncado86/bir_kelime_bir_islem" target="_blank">Countdown - Numbers and Letters</a>
+      </li>
+      <li>
+        <a href="https://github.com/oncado86/Turkish_Sign_Language_Dictionary" target="_blank">Turkish Sign Language Dictionary</a>
+      </li>
+      <li>
+        <a href="https://github.com/oncado86/auto_test_tool" target="_blank">Auto Test Tool</a>
+      </li>
     </ul>
 </details>
 
