@@ -44,6 +44,9 @@
       <li>
         <a href="https://github.com/oncado86/auto_test_tool" target="_blank">Auto Test Tool</a>
       </li>
+      <li>
+        <a href="https://github.com/oncado86/cinema_automation">Cinema Otomation</a>
+      </li>
     </ul>
 </details>
 
