@@ -1,6 +1,6 @@
 <!-- Selamlama -->
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
-<h3 align="center">I'm OnCaDo, a part-time full-stack freelance developer 👨‍💻  and Software Engineer Student 🚀
+<h3 align="center">I'm OnCaDo, a part-time full-stack freelance developer 👨‍💻  and Software Engineer 🚀
 <br><code>May the Source be with You!</code></h3>
 <!-- Selamlama -->
 <div align="left">
